@@ -1,6 +1,6 @@
 # Hi, I'm Pavan Kumar 👋
 
-### Design Engineer | Data Analytics | Power BI | SQL | Aspiring Data Engineer
+### Sr. Power BI Analyst | Data Analytics | Power BI | SQL | Aspiring Data Engineer
 
 📡 Professional with 10+ years of experience in Network engineering and technical project delivery.
 
